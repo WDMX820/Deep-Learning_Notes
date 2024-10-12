@@ -1,5 +1,5 @@
 # DeepLearning_Notes
-深度学习笔记汇总（Google Colab运行）
+深度学习笔记汇总（Google Colab运行 - pytorch版）
 
 学习推荐：
 
@@ -10,3 +10,9 @@
 2、B站UP主“3Blue1Brown”中国官方账号的《深度学习 Deep Learnig》系列视频教程
 
 深度学习 Deep Learning - https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528929
+
+3、深度学习电子书资源
+
+《动手学深度学习》中文版本地址：https://zh-v2.d2l.ai/
+
+《Dive into Deep Learning》英文版地址：https://d2l.ai/ 
