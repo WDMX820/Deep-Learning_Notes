@@ -31,5 +31,21 @@
 
 3、通过HP_image_collection爬取人均100张彩色图片（自采集补充），训练预测比为9:1，基于Pytorch第三方库、数据增强与标准化技术、预训练的 ResNet50 模型和作者本机4060GPU，使用Jupyter NoteBook进行代码实现，并对预测图片进行可视化操作。训练结果为train_loss：0.2905，accuracy：0.9006；test_loss：0.0330，accuracy：0.9939。望各位朋友对哈利波特人物识别库进行扩充！
 
+### 六、Pytorch-CUDA GPU安装教程和“Friend_recognition”
+
+1、Pytorch-CUDA GPU安装教程（image_tutorial&tutorial_notes）
+
+相关网站：CUDA Toolkit：https://developer.nvidia.com/cuda-12-3-0-download-archive?target_os=Windows
+
+cuDNN：https://developer.nvidia.com/rdp/cudnn-archive
+
+Pytorch-GPU：https://pytorch.org/
+
+2、Friend_recognition：基于本人及两位好友的数百张图片集，训练的简单卷积神经网络，用于入门学习和训练流程理解，使用展示图像的可视化辅助函数帮助理解
+
+
+
+
+
 
 
