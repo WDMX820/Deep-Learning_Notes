@@ -1,0 +1,5 @@
+1、下载Anaconda
+2、按照图片教程完成步骤
+3、打开Anaconda选择baby环境下载jupyter notebook
+4、launch jupyter notebook
+5、import torch, torch.cuda.is_available()检测是否为True
