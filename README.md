@@ -35,11 +35,11 @@
 
 1、Pytorch-CUDA GPU安装教程（image_tutorial&tutorial_notes）
 
-相关网站：CUDA Toolkit：https://developer.nvidia.com/cuda-12-3-0-download-archive?target_os=Windows
+相关网站：Pytorch-GPU：https://pytorch.org/
 
 cuDNN：https://developer.nvidia.com/rdp/cudnn-archive
 
-Pytorch-GPU：https://pytorch.org/
+CUDA Toolkit：https://developer.nvidia.com/cuda-12-3-0-download-archive?target_os=Windows
 
 2、Friend_recognition：基于本人及两位好友的数百张图片集，训练的简单卷积神经网络，用于入门学习和训练流程理解，使用展示图像的可视化辅助函数帮助理解
 
