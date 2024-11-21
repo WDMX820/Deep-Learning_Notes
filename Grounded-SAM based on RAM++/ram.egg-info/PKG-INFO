@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ram
+Version: 0.0.1
+Summary: Recognize Anything Plus Model, Recognize Anything Model and Tag2Text Model
+License-File: LICENSE
+License-File: NOTICE.txt
+Requires-Dist: timm==0.4.12
+Requires-Dist: transformers>=4.25.1
+Requires-Dist: fairscale==0.4.4
+Requires-Dist: pycocoevalcap
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: Pillow
+Requires-Dist: scipy
+Requires-Dist: clip@ git+https://github.com/openai/CLIP.git

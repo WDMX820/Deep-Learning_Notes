@@ -1,0 +1,5 @@
+Download website 【下载地址】
+
+Note：下载完预训练后替换此提示文件
+
+https://huggingface.co/xinyu1205/recognize-anything-plus-model/resolve/main/ram_plus_swin_large_14m.pth
