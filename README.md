@@ -5,33 +5,34 @@
 
 ### 一、Deep learning Studying Plan/Task
 
-##### 【流程学习任务】DL-Task 1 to DL-Task 4
+#### 【流程学习任务】DL-Task 1 to DL-Task 4
 
 #### Task 1 - Task 4
+
 一、概述		
 
-1. 熟悉机器学习、深度学习基础知识，熟练使用google colab.
+1、熟悉机器学习、深度学习基础知识，熟练使用google colab.
  
-2. 初步学习和了解深度学习库pytorch, 阅读并总结发表在Nature上的深度学习综述论文.
+2、初步学习和了解深度学习库pytorch, 阅读并总结发表在Nature上的深度学习综述论文.
 
 二、成果
 
-1.《深度学习编程环境安装报告》
+1、《深度学习编程环境安装报告》
 
-2.《深度学习库pytorch实验报告》
+2、《深度学习库pytorch实验报告》
 
-3. 《深度学习综述论文总结》
+3、《深度学习综述论文总结》
 
 三、内容
 
-1. 学习google colab, https://colab.research.google.com/ 完成google colab基本教程的学习，从使用入门到机器学习示例。
+1、学习google colab, https://colab.research.google.com/ 完成google colab基本教程的学习，从使用入门到机器学习示例。
  
-2. 学习《动手学深度学习》“序言”，“安装”，“符号”。代码版本用pytorch版。并按照“安装”一节的教程，安装 Miniconda，安装深度学习框架pytorch和d2l软件包，下载 D2L Notebook。
+2、学习《动手学深度学习》“序言”，“安装”，“符号”。代码版本用pytorch版。并按照“安装”一节的教程，安装 Miniconda，安装深度学习框架pytorch和d2l软件包，下载 D2L Notebook。
 
-3. 学习《动手学深度学习》（《Dive into Deep Learning》）第一至四章（从Introduction到Linear Neural Networks for Classification），并在colab上运行代码。代码版本用pytorch版。英文版地址：https://d2l.ai/。
+3、学习《动手学深度学习》（《Dive into Deep Learning》）第一至四章（从Introduction到Linear Neural Networks for Classification），并在colab上运行代码。代码版本用pytorch版。英文版地址：https://d2l.ai/。
 若英文阅读有难度，可参考中文版进行理解，但代码务必使用英文版上的。 中文版本地址：https://zh-v2.d2l.ai/
 
-4. 熟悉深度学习库pytorch，完成入门教程的学习和理解，并在colab运行如下示例，地址为https://pytorch.org/tutorials/
+4、熟悉深度学习库pytorch，完成入门教程的学习和理解，并在colab运行如下示例，地址为https://pytorch.org/tutorials/
 
 Introduction to PyTorch[ - ]
 
@@ -63,7 +64,7 @@ Learning PyTorch[ - ]
 
 •	Visualizing Models, Data, and Training with TensorBoard
 
-6. 阅读并总结发表在Nature上的深度学习综述论文
+5、阅读并总结发表在Nature上的深度学习综述论文
 
 https://www.nature.com/articles/nature14539
 
@@ -75,13 +76,13 @@ https://www.nature.com/articles/nature14539
 
 二、成果
 
-1. 《基于CNN的图像分类实验报告》
+《基于CNN的图像分类实验报告》
 
 三、内容
 
-1. 学习《动手学深度学习》第五至六章，“4. 多层感知机；5. 深度学习计算；6. 卷积神经网络；”，并在colab上运行代码。https://zh-v2.d2l.ai/
+1、学习《动手学深度学习》第五至六章，“4. 多层感知机；5. 深度学习计算；6. 卷积神经网络；”，并在colab上运行代码。https://zh-v2.d2l.ai/
 
-2. 使用pytorch进行图像分类等基本任务 https://pytorch.org/tutorials/
+2、使用pytorch进行图像分类等基本任务 https://pytorch.org/tutorials/
 
 Image and Video[ - ]
 
@@ -99,9 +100,9 @@ Transfer Learning for Computer Vision Tutorial
 
 三、内容
 
-1. 学习《动手学深度学习》第七章，第八章： 7. 现代卷积神经网络；8. 循环神经网络”，在colab上运行pytorch版本代码,并理解。https://zh-v2.d2l.ai/
+1、学习《动手学深度学习》第七章，第八章： 7. 现代卷积神经网络；8. 循环神经网络”，在colab上运行pytorch版本代码,并理解。https://zh-v2.d2l.ai/
 
-2.完成第七章练习2，“参考ResNet论文 [He et al., 2016a]中的表1，以实现不同的变体。”，并在Fashion-MNIST数据集上训练你实现的ResNet变体，形成实验报告。
+2、完成第七章练习2，“参考ResNet论文 [He et al., 2016a]中的表1，以实现不同的变体。”，并在Fashion-MNIST数据集上训练你实现的ResNet变体，形成实验报告。
 
 #### Task 7
 
@@ -114,9 +115,10 @@ Transfer Learning for Computer Vision Tutorial
 《基于RNN的机器翻译实验报告》
 
 三、内容
-1. 学习《动手学深度学习》第8章至第10章： 8. 循环神经网络, 9现代循环神经网络；10. 注意力机制”，在colab上运行pytorch版本代码,并理解。https://zh-v2.d2l.ai/
 
-2.完成9.5-9.7节的机器翻译模型训练和测试，并形成《基于RNN的机器翻译实验报告》。
+1、学习《动手学深度学习》第8章至第10章： 8. 循环神经网络, 9现代循环神经网络；10. 注意力机制”，在colab上运行pytorch版本代码,并理解。https://zh-v2.d2l.ai/
+
+2、完成9.5-9.7节的机器翻译模型训练和测试，并形成《基于RNN的机器翻译实验报告》。
 
 #### Task 8
 
@@ -130,9 +132,9 @@ Transfer Learning for Computer Vision Tutorial
 
 三、内容
 
-1. 学习《动手学深度学习》第十三章“13. 计算机视觉”，在colab上运行pytorch版本代码，并深入理解。理解常见的目标检测、语义分割方法原理。
+1、学习《动手学深度学习》第十三章“13. 计算机视觉”，在colab上运行pytorch版本代码，并深入理解。理解常见的目标检测、语义分割方法原理。
 
-2. 使用pytorch进行目标检测任务 https://pytorch.org/tutorials/
+2、使用pytorch进行目标检测任务 https://pytorch.org/tutorials/
 
 Image and Video[ - ] TorchVision Object Detection Finetuning Tutorial
 
