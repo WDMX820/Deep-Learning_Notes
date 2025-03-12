@@ -11,6 +11,12 @@
 
 深度学习 Deep Learning - https://space.bilibili.com/88461692/channel/seriesdetail?sid=1528929
 
+一共六集，📚3Blue1Brown 深度学习课程笔记见下文件夹《3b1b Deep Learning》：
+
+【01】深度学习之神经网络结构解析
+
+【02】深度学习之梯度下降法深度解析
+
 ## 三、深度学习电子书资源
 
 《动手学深度学习》中文版本地址：https://zh-v2.d2l.ai/
