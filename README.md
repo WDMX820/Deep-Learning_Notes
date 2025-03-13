@@ -37,6 +37,15 @@
 
 > "注意力不是答案，而是提出更好问题的能力" —— Transformer设计哲学
 
+** 延伸学习 - 卷积 ** 课程笔记见下文件夹《3b1b Convolution》
+
+【【官方双语】那么……什么是卷积？】https://www.bilibili.com/video/BV1Vd4y1e7pj/
+
+> "卷积不是操作，而是一种观察世界的视角" —— 数学本质的哲学思考
+
+【【官方双语】卷积的两种可视化|概率论中的X+Y既美妙又复杂】https://www.bilibili.com/video/BV1Yk4y1K7Az
+
+> "数学的美妙之处，在于不同视角总能通向同一真理。" —— 3Blue1Brown
 
 ## 三、深度学习电子书资源
 
