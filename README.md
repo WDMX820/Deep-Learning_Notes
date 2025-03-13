@@ -37,7 +37,7 @@
 
 > "注意力不是答案，而是提出更好问题的能力" —— Transformer设计哲学
 
-** 延伸学习 - 卷积 ** 课程笔记见下文件夹《3b1b Convolution》
+#### 延伸学习推荐 - 卷积  课程笔记见下文件夹《3b1b Convolution》
 
 【【官方双语】那么……什么是卷积？】https://www.bilibili.com/video/BV1Vd4y1e7pj/
 
